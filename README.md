@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-I'm currently learning JS, python, MongoDb, SQLite through a course<br>Fun fact: I'm a Pilipino so i love playing basketball<br>I also love listening to music, more important to than wifi
+I'm currently learning JS, python, MongoDb, SQLite through a course<br>Fun fact: I'm a Pilipino so i love playing basketball<br>I also love listening to music, more important than wifi
 
 
 # 💻 Tech Stack:
